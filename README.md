@@ -1,6 +1,6 @@
 # xo_game
 
-A new Flutter application.
+A new Flutter application(This game is played by two people or one person and the phone).
 
 ## Getting Started
 
