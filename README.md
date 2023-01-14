@@ -2,6 +2,12 @@
 
 A new Flutter application(This game is played by two people or one person and the phone).
 
+
+
+https://user-images.githubusercontent.com/90086704/212481002-a76de986-7ca1-48be-8fe9-1901db7b32f6.mp4
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
